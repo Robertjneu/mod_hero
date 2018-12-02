@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="23px" viewBox="0 0 34 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Analytics</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-Dashboard" transform="translate(-989.000000, -26.000000)">
+            <g id="Main-Screen">
+                <g id="Group-3" transform="translate(549.000000, 0.000000)">
+                    <g id="Analytics" transform="translate(441.000000, 23.931707)">
+                        <g transform="translate(0.000000, 3.263415)">
+                            <ellipse id="Oval" stroke="#74849A" stroke-width="0.5" fill="#74849A" cx="3.3" cy="17.0403477" rx="3.3" ry="3.62794499"></ellipse>
+                            <ellipse id="Oval" stroke="#74849A" stroke-width="0.5" fill="#74849A" cx="20.9" cy="17.0403477" rx="3.3" ry="3.62794499"></ellipse>
+                            <ellipse id="Oval" stroke="#74849A" stroke-width="0.5" fill="#74849A" cx="11.1" cy="3.84782045" rx="3.3" ry="3.62794499"></ellipse>
+                            <ellipse id="Oval" stroke="#9FACBD" stroke-width="0.5" fill="#9FACBD" cx="28.7" cy="3.62794499" rx="3.3" ry="3.62794499"></ellipse>
+                            <path d="M4.8546875,13.8195158 L9.06875,6.7620291" id="Path-4" stroke="#74849A" stroke-width="1.2" fill="#74849A"></path>
+                            <path d="M13.4,5.49688635 L19.2,14.2919045" id="Path-5" stroke="#74849A" stroke-width="1.2" fill="#74849A"></path>
+                            <path d="M22.6,13.8521536 L26.706432,6.62892486" id="Path-6" stroke="#9FACBD" stroke-width="1.2" fill="#9FACBD"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

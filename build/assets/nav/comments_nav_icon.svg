@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="29px" viewBox="0 0 28 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Overview</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-Dashboard" transform="translate(-573.000000, -25.000000)" stroke-width="0.5">
+            <g id="Main-Screen">
+                <g id="Group-3" transform="translate(549.000000, 0.000000)">
+                    <g id="Overview">
+                        <g transform="translate(24.000000, 25.019512)" id="Rectangle-8">
+                            <rect stroke="#246EFC" fill="#246EFC" x="0.25" y="0.25" width="12.5" height="12.5366616" rx="1.00000001"></rect>
+                            <rect stroke="#246EFC" fill="#246EFC" x="15.25" y="0.25" width="12.5" height="12.5366616" rx="1.00000001"></rect>
+                            <rect stroke="#246EFC" fill="#246EFC" x="0.25" y="15.4962652" width="12.5" height="12.5366616" rx="1.00000001"></rect>
+                            <rect stroke="#25CCFC" fill="#25CCFC" x="15.25" y="15.4962652" width="12.5" height="12.5366616" rx="1.00000001"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
